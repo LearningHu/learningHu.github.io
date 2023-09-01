@@ -1,0 +1,42 @@
+#img-bilibili
+{
+    width: 100px;
+    height: 50px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: rgb(196, 32, 32);
+  font-family: 'Kirang Haerang', cursive;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px black;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+p{
+    color: rgb(150, 60, 161);
+}
+
+li{
+    color: rgb(65, 128, 184);
+}
+
+html{
+    background-color: rgb(210, 223, 152);
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #a39683;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
